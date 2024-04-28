@@ -20,7 +20,8 @@ Erode the image
 ### Step5:
 Dilate the Image
 ## Program:
-
+## DEVELOPED BY: Arikatla Hari Veera Prasad
+## REGISTER NUMBER:212223240014
 ``` Python
 # Import the necessary packages
 import numpy as np
